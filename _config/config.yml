@@ -3,4 +3,4 @@ Name: textdropdownfield
 ---
 SilverStripe\Admin\LeftAndMain:
   extra_requirements_javascript:
-    - 'adrhumphreys/silverstripe-textdropdownfield:client/dist/js/bundle.js'
+    - 'bigfork/silverstripe-textdropdownfield-fork:client/dist/js/bundle.js'
